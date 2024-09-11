@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { CiShare1 } from "react-icons/ci";
-import { useEffect, useState } from "react";
 
 export default function App() {
    
